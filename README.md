@@ -30,6 +30,9 @@ That's it! Now go build something cool.
 	please check includes file
 ## For End Points 
 	please check public/index.php
+	
+## Screen Shot
+![App Screen](https://github.com/Mostafaelnagar/SaveOurKids-S.O.K-/blob/master/uploads/images/56271627_1360178344123423_2288770797679935488_n.png).
 
 # SaveOurKids-S.O.K-
 
