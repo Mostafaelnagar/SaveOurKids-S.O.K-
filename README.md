@@ -25,4 +25,11 @@ Run this command in the application directory to run the test suite
 	php composer.phar test
 
 That's it! Now go build something cool.
+
+## For Database Operations 
+	please check includes file
+## For End Points 
+	please check public/index.php
+
 # SaveOurKids-S.O.K-
+
